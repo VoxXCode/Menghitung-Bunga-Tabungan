@@ -50,5 +50,5 @@ class PerbandinganInvestasi {
         System.out.println(selisih > 0
                 ? "Investasi 2 memberikan hasil yang lebih tinggi."
                 : "Investasi 1 memberikan hasil yang lebih tinggi atau sama.");
-    }
+    }//
 }
