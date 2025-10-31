@@ -14,5 +14,5 @@ class KalkulatorBunga {
     public static double hitungSaldoAkhir(DataInvestasi data) {
         // Rumus Bunga Sederhana: SaldoAkhir = SaldoAwal + (SaldoAwal * Bunga / 100 * Lama)
         return data.saldoAwal + (data.saldoAwal * data.bungaTahunan / PERSEN_DIVISOR * data.durasiTahun);
-    }
+    }//
 }

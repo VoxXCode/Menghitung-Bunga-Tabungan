@@ -33,5 +33,5 @@ public class Main {
     private static double ambilInputDouble(Scanner scanner, String prompt) {
         System.out.print(prompt);
         return scanner.nextDouble();
-    }
+    }//
 }

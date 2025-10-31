@@ -11,5 +11,5 @@ class DataInvestasi {
         this.saldoAwal = saldoAwal;
         this.bungaTahunan = bungaTahunan;
         this.durasiTahun = durasiTahun;
-    }
+    }//
 }
